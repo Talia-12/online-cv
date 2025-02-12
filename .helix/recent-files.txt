@@ -1,0 +1,2 @@
+"/home/tyrab/Programming/online-cv/_includes/career-profile.html"
+"/home/tyrab/Programming/online-cv/_data/data.yml"
