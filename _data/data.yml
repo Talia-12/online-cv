@@ -125,17 +125,28 @@ projects:
   intro:
   assignments:
   - title: Hexal
-    link: "#https://github.com/Talia-12/Hexal"
+    link: "https://github.com/Talia-12/Hexal"
     tagline: "A minecraft mod which is an addon for Hex Casting, a magic-themed esolang that you can use to interact with your game world."
 
 oss:
   title: OSS Contributions
   intro:
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Helix
+    link: "https://github.com/helix-editor/helix"
+    tagline: "A Kakoune / Neovim inspired editor, written in Rust. I've provided feedback on and contributed to the extension system."
 
+  - title: Matugen
+    link: "https://github.com/InioX/matugen"
+    tagline: "A cross-platform material you color generation tool. Provided feedback, bugfixes, and improved Nix integration."
+
+  - title: Nixpkgs
+    link: "https://github.com/NixOS/nixpkgs"
+    tagline: "The central Nix packages repository. Provided feedback and draft packaging of various software."
+
+  - title: Hex Casting
+    link: "https://github.com/FallingColors/HexMod"
+    tagline: "A minecraft mod about casting Hexes, powerful and programmable magical effects, inspired by PSI. Spent some time as a primary developer for it."
 
 publications:
   title: Publications
