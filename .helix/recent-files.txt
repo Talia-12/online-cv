@@ -1,5 +1,5 @@
-"/home/tyrab/Programming/online-cv/_includes/career-profile.html"
 "/home/tyrab/Programming/online-cv/_data/data.yml"
+"/home/tyrab/Programming/online-cv/_includes/career-profile.html"
 "/home/tyrab/Programming/online-cv/_config.yml"
 "/home/tyrab/Programming/online-cv/_includes/contact.html"
 "/home/tyrab/Programming/online-cv/_layouts/default.html"

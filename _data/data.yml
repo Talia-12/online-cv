@@ -59,12 +59,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Recent Mathematics and Computer Science graduate from the University of Queensland, majoring in Statistics and Machine Learning. I've studied both mathematical foundations and practical programming skills, particularly in areas relevant to AI development and analysis. I am deeply interested in ensuring the safe development of AI systems, drawing on my background in both pure mathematics and applied machine learning techniques.
+
+    Currently transitioning into AI Safety research, where I can apply my mathematical training and programming capabilities to help address the technical challenge of building aligned AI systems.    
 education:
   title: Education
   info:
@@ -163,23 +160,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: Rust
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Nix & NixOs
+    level: 95%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Haskell
+    level: 90%
+
+  - name: Python & PyTorch
+    level: 80%
+
+  - name: Dart
+    level: 75%
+
+  - name: Lean
+    level: 45%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
