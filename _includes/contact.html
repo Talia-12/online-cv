@@ -21,7 +21,8 @@
 
     {% if sidebar.timezone %}
     <li class="timezone"><i class="fas fa-clock"></i>
-      <a href="https://worldtimeapi.org/timezone/{{ sidebar.timezone }}" target="_blank">{{ sidebar.timezone }} Timezone</a>
+      <a href="https://worldtimeapi.org/timezone/{{ sidebar.timezone }}" target="_blank">{{ sidebar.timezone }}
+        Timezone</a>
     </li>
     {% endif %}
 
@@ -72,14 +73,14 @@
       <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
     </li>
     {% endif %}
-    
+
     {% if sidebar.bluesky %}
     {% assign bluesky_handle = sidebar.bluesky | remove: '@' %}
     <li class="bluesky"><i class="fab fa-bluesky"></i>
       <a href="https://bsky.app/profile/{{ bluesky_handle }}" target="_blank">{{ sidebar.bluesky }}</a>
     </li>
     {% endif %}
-    
+
     {% if sidebar.mastodon %}
     {% assign mastodon_handle = sidebar.mastodon | split: '/' %}
     <li class="mastodon"><i class="fab fa-mastodon"></i>
@@ -89,13 +90,15 @@
 
     {% if sidebar.stack-overflow %}
     <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
-      <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
+      <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow
+        }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.codewars %}
     <li class="codewars"><i class="fas fa-code"></i>
-      <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
+      <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{
+        sidebar.codewars }}</a>
     </li>
     {% endif %}
 
@@ -119,7 +122,7 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a href="{{ site.baseurl }}/assets/pdfs/{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
     </li>
     {% endif %}
 

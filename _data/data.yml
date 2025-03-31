@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: tyra.m.burgess@gmail.com
   phone: (510) 461-7973
-  timezone: US/Pacific # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Australia/Brisbane # US/Pacific # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Australia
   website: # Include the full website URL, including "http://" or "https://".
   linkedin: tyra-burgess-900572238/
@@ -68,6 +68,7 @@ education:
   - degree: BSc in Mathematics and Computer Science
     university: University of Queensland
     time: 2021 - 2024
+    pdf: AcademicTranscript.pdf
     details: |
       Completed a dual degree with majors in Statistics and Machine learning respectively, while maintaining a strong foundation in pure mathematics.
 
@@ -78,6 +79,7 @@ education:
 
       Notable achievements:
       - I obtained the Dean's Commendation for Academic Excellence almost every semester
+      - I was in the top 95% of performers in the Statistical Learning course of Semester 1, 2024
       - I performed well in programming competitions run by the Computing Society, frequently in the top 10%
 
 
@@ -85,10 +87,10 @@ experiences:
   title: Experiences
   info:
   - role: Scholar
-    time: 2025 - Present
+    time: Jan 2025 - Mar 2025
     company: MATS
     details: |
-      I'm participating in a mentorship program under Michael Cohen, learning how to do AI safety research. I am currently working on specifically agent foundations research that aims to provide a step closer to a solution to the problem of composable world models which the Guaranteed Safe AI agenda needs in order to be at all feasible.
+      I participated in a mentorship program under Michael Cohen, learning how to do AI safety research. I worked on agent foundations research that aims to provide a step closer to a solution to the problem of composable world models which the Guaranteed Safe AI agenda needs in order to be at all feasible.
   - role: Computer Science Tutor
     time: 2023 - 2024
     company: University of Queensland
@@ -125,7 +127,7 @@ projects:
   intro:
   assignments:
   - title: Hexal
-    link: "https://github.com/Talia-12/Hexal"
+    link: "https://github.com/Talia-12/Hexal/"
     tagline: "A minecraft mod which is an addon for Hex Casting, a magic-themed esolang that you can use to interact with your game world."
 
 oss:
@@ -178,13 +180,13 @@ skills:
     level: 95%
 
   - name: Haskell
-    level: 90%
+    level: 80%
 
   - name: Python & PyTorch
     level: 80%
 
   - name: Dart
-    level: 75%
+    level: 70%
 
   - name: Lean
     level: 45%
