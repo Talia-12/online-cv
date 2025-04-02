@@ -131,6 +131,10 @@ projects:
     link: "https://github.com/Talia-12/Hexal/"
     tagline: "A minecraft mod which is an addon for Hex Casting, a magic-themed esolang that you can use to interact with your game world."
 
+  - title: Hippocampus
+    link: "https://github.com/Talia-12/hippocampus"
+    tagline: "A background server handling storage and scheduling for an OS-level spaced repetition system."
+
 oss:
   title: OSS Contributions
   intro:
