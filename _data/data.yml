@@ -89,6 +89,7 @@ experiences:
   - role: Scholar
     time: Jan 2025 - Mar 2025
     company: MATS
+    pdf: tyra-burgess-mats-poster.pdf
     details: |
       I participated in a mentorship program under Michael Cohen, learning how to do AI safety research. I worked on agent foundations research that aims to provide a step closer to a solution to the problem of composable world models which the Guaranteed Safe AI agenda needs in order to be at all feasible.
   - role: Computer Science Tutor
